@@ -1,2 +1,2 @@
-# ReCom App
-ReCom APP apk for Download
+# Recom App
+Recom APP apk for Download
